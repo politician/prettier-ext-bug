@@ -1,6 +1,6 @@
 {
   "name": "test",
   "devDependencies": {
-    "prettier": "^2.7.1",
+    "prettier": "^2.7.1"
   }
 }
